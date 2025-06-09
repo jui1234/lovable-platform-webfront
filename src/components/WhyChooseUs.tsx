@@ -4,7 +4,6 @@ import { Globe, Users, Building, TrendingUp } from "lucide-react";
 const WhyChooseUs = () => {
   return (
     <div className="container mx-auto px-4">
-
       <div className="grid lg:grid-cols-2 gap-16 items-center mb-20">
         {/* Content */}
         <div className="space-y-8">
@@ -25,7 +24,7 @@ const WhyChooseUs = () => {
         {/* Image */}
         <div className="relative">
           <img
-            src="https://i.postimg.cc/sgCpPNcq/image27.jpg"
+            src="https://ibb.co/DHP6HybD"
             alt="Modern pharmaceutical facility"
             className="w-full h-96 object-cover rounded-2xl shadow-2xl"
           />
