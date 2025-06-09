@@ -31,7 +31,7 @@ const WhyChooseUs = () => {
           <div className="absolute -top-8 -right-8 bg-white rounded-xl shadow-xl p-6">
             <div className="text-center">
               <div className="text-3xl font-bold text-pharma-blue">25+</div>
-              <div className="text-pharma-grey">Years of Innovation</div>
+              <div className="text-pharma-grey">Years of Innovationss</div>
             </div>
           </div>
         </div>
